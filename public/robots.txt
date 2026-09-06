@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://muloginmanager.com.brsitemap.xml
+Sitemap: https://muloginmanager.com.br/sitemap.xml

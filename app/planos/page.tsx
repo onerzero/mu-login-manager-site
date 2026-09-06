@@ -4,7 +4,7 @@ import SitePage from '../page';
 export const metadata: Metadata = {
   title: 'Planos e avaliação gratuita — MU Login Manager',
   description: 'Compare os planos Party, Party + Farm, Multi Party e Farm Pro do MU Login Manager e experimente gratuitamente por 7 dias.',
-  alternates: { canonical: 'https://muloginmanager.com.brplanos/' },
+  alternates: { canonical: 'https://muloginmanager.com.br/planos/' },
 };
 
 export default function PlanosPage() {
